@@ -1,0 +1,7 @@
+bin
+test-output
+#.DS_Store
+iOS/.DS_Store
+iOS/src/.DS_Store
+iOS/src/test/.DS_Store
+iOS/src/test/java/.DS_Store
